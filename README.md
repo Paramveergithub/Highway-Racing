@@ -1,1 +1,1 @@
-This is a fun project. built html, css animation checkout in this URL:- 👉 https://highway-racing.netlify.app
+This is a fun project. built on HTML, CSS animation checkout in this URL:- 👉 https://highway-racing.netlify.app
